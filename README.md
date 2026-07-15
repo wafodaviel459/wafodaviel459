@@ -4,6 +4,8 @@ I'm Daviel Wafo, an engineering student at EMINES - UM6P.
 
 I enjoy designing intelligent mechanical systems, robotics, CAD and software development.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://wafodaviel459.github.io)
+
 ---
 
 ## 🚀 Current Projects
@@ -34,7 +36,10 @@ I enjoy designing intelligent mechanical systems, robotics, CAD and software dev
 - Blender
 
 ---
+## 🌐 Portfolio
 
+🔗 **Portfolio:** [Visit my Portfolio](https://wafodaviel459.github.io)
+---
 ## 📫 Contact
 
 Email Perso 
