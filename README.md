@@ -9,7 +9,7 @@ I enjoy designing intelligent mechanical systems, robotics, CAD and software dev
 ## 🚀 Current Projects
 
 - 🤖 CoreXY Drawing Machine
-- ⚙️ Arduino Automation
+- ⚙️ Three Wheel Mobile Platform
 - 🎨 SolidWorks CAD Design
 - 🌐 Web Interfaces
 - 🐍 Python Applications
