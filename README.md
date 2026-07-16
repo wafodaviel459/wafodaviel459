@@ -36,10 +36,13 @@ I enjoy designing intelligent mechanical systems, robotics, CAD and software dev
 - Blender
 
 ---
+
 ## 🌐 Portfolio
 
 🔗 **Portfolio:** [Visit my Portfolio](https://wafodaviel459.github.io)
+
 ---
+
 ## 📫 Contact
 
 Email Perso 
