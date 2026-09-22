@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daviel Wafo, an engineering student at EMINES - UM6P.
+I'm Daviel Wafo, a 17 year old  engineering student at EMINES - UM6P.
 
 I enjoy designing intelligent mechanical systems, robotics, CAD and software development.
 
